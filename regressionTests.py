@@ -1,0 +1,7 @@
+from positive import registrationNewWM
+
+
+registrationNewWM.setUp
+registrationNewWM.test_1_registration_new_wm_with_valid_data
+registrationNewWM.test_2_activate_new_wm_in_adminPage
+registrationNewWM.test_3_enter_wm_after_activate
